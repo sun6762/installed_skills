@@ -1,0 +1,96 @@
+{
+  "catalog_name": "codex-installed-skills",
+  "generated_at": "2026-05-17",
+  "generated_by": "Codex",
+  "skills_root": "/Users/bobo/.codex/skills",
+  "skills": [
+    {
+      "name": "using-superpowers",
+      "local_path": "/Users/bobo/.codex/skills/using-superpowers",
+      "source_repo": "obra/superpowers",
+      "source_path": "skills/using-superpowers",
+      "category": "process",
+      "summary": "在对话开始时指导模型优先判断并调用合适的 skills。"
+    },
+    {
+      "name": "playwright",
+      "local_path": "/Users/bobo/.codex/skills/playwright",
+      "source_repo": "openai/skills",
+      "source_path": "skills/.curated/playwright",
+      "category": "browser-automation",
+      "summary": "通过 Playwright CLI 在终端里驱动真实浏览器做打开页面、点击、截图和数据提取。"
+    },
+    {
+      "name": "markitdown",
+      "local_path": "/Users/bobo/.codex/skills/markitdown",
+      "source_repo": "K-Dense-AI/scientific-agent-skills",
+      "source_path": "scientific-skills/markitdown",
+      "category": "document-conversion",
+      "summary": "把 PDF、Office、图片、音频、网页等内容转换为 Markdown。"
+    },
+    {
+      "name": "obsidian-markdown",
+      "local_path": "/Users/bobo/.codex/skills/obsidian-markdown",
+      "source_repo": "kepano/obsidian-skills",
+      "source_path": "skills/obsidian-markdown",
+      "category": "obsidian",
+      "summary": "创建和编辑 Obsidian 风格的 Markdown，包括 wikilink、embed、callout 和 frontmatter。"
+    },
+    {
+      "name": "obsidian-bases",
+      "local_path": "/Users/bobo/.codex/skills/obsidian-bases",
+      "source_repo": "kepano/obsidian-skills",
+      "source_path": "skills/obsidian-bases",
+      "category": "obsidian",
+      "summary": "创建和编辑 Obsidian Bases 的 `.base` 文件，用于表格、卡片、列表和筛选视图。"
+    },
+    {
+      "name": "obsidian-cli",
+      "local_path": "/Users/bobo/.codex/skills/obsidian-cli",
+      "source_repo": "kepano/obsidian-skills",
+      "source_path": "skills/obsidian-cli",
+      "category": "obsidian",
+      "summary": "用 Obsidian CLI 管理笔记库、搜索笔记、修改属性，以及辅助插件开发调试。"
+    },
+    {
+      "name": "json-canvas",
+      "local_path": "/Users/bobo/.codex/skills/json-canvas",
+      "source_repo": "kepano/obsidian-skills",
+      "source_path": "skills/json-canvas",
+      "category": "obsidian",
+      "summary": "创建和编辑 `.canvas` 文件，适合流程图、思维导图和可视化关系图。"
+    },
+    {
+      "name": "defuddle",
+      "local_path": "/Users/bobo/.codex/skills/defuddle",
+      "source_repo": "kepano/obsidian-skills",
+      "source_path": "skills/defuddle",
+      "category": "web-content",
+      "summary": "从网页中提取干净的 Markdown 内容，去掉导航、广告和噪音。"
+    },
+    {
+      "name": "find-skills",
+      "local_path": "/Users/bobo/.codex/skills/find-skills",
+      "source_repo": "vercel-labs/skills",
+      "source_path": "skills/find-skills",
+      "category": "skill-management",
+      "summary": "搜索、筛选和推荐适合当前任务的 skills，并给出安装建议。"
+    },
+    {
+      "name": "security-threat-model",
+      "local_path": "/Users/bobo/.codex/skills/security-threat-model",
+      "source_repo": "openai/skills",
+      "source_path": "skills/.curated/security-threat-model",
+      "category": "security",
+      "summary": "对仓库或目录做安全威胁建模，输出边界、资产、威胁路径和缓解建议。"
+    },
+    {
+      "name": "pdf",
+      "local_path": "/Users/bobo/.codex/skills/pdf",
+      "source_repo": "openai/skills",
+      "source_path": "skills/.curated/pdf",
+      "category": "document",
+      "summary": "读取、生成和审查 PDF，强调渲染质量和视觉核验。"
+    }
+  ]
+}
